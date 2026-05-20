@@ -51,7 +51,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
-- Tree ensembles (**XGBoost, LightGBM, Random Forest, GBRT, NN**) delivered the best accuracy and cumulative returns vs. **TWII**.
+- XGBoost, LightGBM, Random Forest, GBRT, NN delivered the best accuracy and cumulative returns vs. **TWII**.
 
 **  HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
