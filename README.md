@@ -1,19 +1,12 @@
-<h1 align="center">Hi, I'm Po Chun Huang (黃柏郡) 👋</h1>
+<h1 align="center">Po Chun Huang</h1>
 
 <p align="center">
   <b>Data Science · Machine Learning · Financial Data Analytics</b><br/>
-  B.S. in Data Science @ Soochow University, Taipei · Class of 2027
-</p>
-
-<p align="center">
-  <a href="mailto:fman94828@gmail.com"><img src="https://img.shields.io/badge/Email-fman94828@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Taipei,%20Taiwan-2C7BE5?style=flat"/>
-  <img src="https://img.shields.io/badge/GPA-4.0%2F4.0%20(Rank%201%2F48)-success?style=flat"/>
-</p>
+  B.S. in Data Science @ Soochow University, Taipei
 
 ---
 
-### 🧭 About Me
+###   About Me
 
 I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **statistical learning, machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
 
@@ -21,7 +14,7 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-### 🎓 Education
+###   Education
 
 - **Soochow University** — B.S. in Data Science, Business Management Credit Program  *(Sept. 2023 – Jun. 2027 expected)*
   - GPA **4.0 / 4.0** · Class Rank **1 / 48**
@@ -32,36 +25,36 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-### 🔬 Research & Projects
+###   Research & Projects
 
-**🏆 National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*
+**  National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
 - Tree ensembles (**XGBoost, LightGBM, Random Forest, GBRT**) delivered the best accuracy and cumulative returns vs. **TWII**.
 
-**📈 HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
+**  HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
 - **HFSLS feature selection contributed 97% of the performance gain.**
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
 
-**🛣️ Freeway Traffic Data Pipeline** — *Jun. 2024*
+**  Freeway Traffic Data Pipeline** — *Jun. 2024*
 - Designed an **Apache Airflow** ETL pipeline for freeway Vehicle Detector (VD) XML data; stored structured output in **Elasticsearch** for efficient querying.
 
-**🗄️ Web Application with SQLite Back-End** — *Feb. 2025*
+**  Web Application with SQLite Back-End** — *Feb. 2025*
 - Full-stack web app (HTML/CSS/JS + SQLite) with CRUD operations, **100% data integrity**, and **<200 ms** response time.
 - [Demo Video](https://youtu.be/-8x2bmUEOtM)
 
-**🎵 Front-End Music Education Website** — *Nov. 2024*
+**  Front-End Music Education Website** — *Nov. 2024*
 - Responsive front-end project simulating a music education platform.
 
-**⌚ Garmin Sleep Data Analysis** — *Oct. 2025*
+**  Garmin Sleep Data Analysis** — *Oct. 2025*
 - Analyzed wearable sleep data (duration, quality, trends) with pandas / NumPy / Matplotlib.
 
 ---
 
-### 🛠️ Tech Stack
+###   Tech Stack
 
 **Languages** &nbsp; `Python` `R` `SQL` `JavaScript` `HTML` `CSS`
 **ML / DL** &nbsp; `scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `GBRT` `Random Forest` `Neural Networks`
@@ -72,7 +65,7 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-### 📊 GitHub Stats
+###   GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=brianlab999&show_icons=true&hide_border=true&theme=tokyonight" />
@@ -81,7 +74,7 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-### 📜 Certifications
+###   Certifications
 
 **Finance & Insurance**
 - Life Insurance Agent Qualification
@@ -103,24 +96,17 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-### 🎤 Conferences
+###   Conferences
 
 - **TRIA — Taiwan Risk and Insurance Annual Conference & International Symposium** *(Dec. 2025)*
   Presented research on multi-level momentum and liquidity volatility in the Taiwan stock market using machine learning.
 
 ---
 
-### 🤝 Leadership
+###   Leadership
 
 - **Vice President**, Life Character Development Club — *Sept. 2024 – Present*
   Organize events and coordinate activities for **50+ members**.
 
 ---
-
-### 📫 Contact
-
-- ✉️ **Email** — fman94828@gmail.com
-- 📱 **Phone** — (+886) 989-871-776
-- 💻 **GitHub** — [github.com/brianlab999](https://github.com/brianlab999)
-
 <p align="center"><i>Open to collaboration on data science, quantitative finance, and digital finance projects.</i></p>
