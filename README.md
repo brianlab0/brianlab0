@@ -1,4 +1,4 @@
-<h1 align="center">Po Chun Huang</h1>
+<h1 align="center">Huang Po-Chun</h1>
 
 <p align="center">
   <b>Data Science · Machine Learning · Financial Data Analytics</b><br/>
