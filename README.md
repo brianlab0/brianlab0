@@ -65,15 +65,6 @@ I'm passionate about **digital finance**. Alongside coursework I've earned **10+
 
 ---
 
-###   GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brianlab999&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlab999&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 ###   Certifications
 
 **Finance & Insurance**
