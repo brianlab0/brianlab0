@@ -65,9 +65,6 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - Full-stack web app (HTML/CSS/JS + SQLite) with CRUD operations, **100% data integrity**, and **<200 ms** response time.
 - [Demo Video](https://youtu.be/-8x2bmUEOtM)
 
-**Front-End Music Education Website** — *Nov. 2024*
-- Responsive front-end project simulating a music education platform.
-
 **Garmin Sleep Data Analysis** — *Oct. 2025*
 - Analyzed wearable sleep data (duration, quality, trends) with pandas / NumPy / Matplotlib.
 
