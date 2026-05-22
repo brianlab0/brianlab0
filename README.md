@@ -59,9 +59,8 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - [Demo Video](https://youtu.be/-8x2bmUEOtM)
 
 **Steam Top Sellers Scraping & Trend Analysis** — *Dec. 2024*
-- Built a **Selenium + ChromeDriver** scraper to automate weekly extraction of the **Steam Top 100 chart (Taiwan region)** from 2021 to 2024 — over **200 weekly snapshots** consolidated into a unified CSV dataset.
-- Developed an interactive **Tkinter desktop GUI** to visualize the data: pie charts of free vs. paid games, weekly rankings, annual / four-year Top 100 aggregations, and a multi-year business-model trend chart.
-- Demonstrated end-to-end pipeline from dynamic-content web scraping to consumer-facing analytics application using **pandas** and **Matplotlib**.
+- Built a **Selenium** scraper for the Steam Top 100 chart (Taiwan region) across 2021–2024, producing a 200+ weekly-snapshot dataset.
+- Developed a **Tkinter GUI** with pandas / Matplotlib for free-vs-paid game ratio, yearly rankings, and four-year business-model trend analysis.
 
 ---
 
@@ -72,7 +71,8 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 **Data Science** &nbsp; `pandas` `NumPy` `Matplotlib`
 **Statistics** &nbsp; `Regression Analysis` `Time Series Analysis` `Statistical Learning` `Feature Engineering`
 **Data Engineering** &nbsp; `Apache Airflow` `Elasticsearch` `ETL Pipelines` `API Integration` `Git`
-**BI & Reporting** &nbsp; `Power BI` `Tableau` `Excel` `PowerPoint`
+**BI & Reporting** &nbsp; `Excel` `PowerPoint`
+**Web Scraping** &nbsp; `Selenium` `ChromeDriver` `BeautifulSoup` `Requests` `Dynamic Page Automation`
 
 ---
 
