@@ -13,8 +13,8 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 ---
 
 ###   Education
-
-- **Soochow University** — B.S. in Data Science, Business Management Credit Program  *(Sept. 2023 – Jun. 2027 expected)*
+- **Soochow University** — B.S. in Data Science, Business Management Credit Program  
+  *(Sept. 2023 – Jun. 2027 expected)*
   - GPA **4.0 / 4.0** · Class Rank **1 / 48**
   - **Academic Excellence Award** every semester since 2023 (×4);
   - **Dean Chang Shan-cheng Honorary Award** every semester since 2023 (×2)
