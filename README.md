@@ -1,7 +1,7 @@
 ###   Research and Projects
 
 **National Science and Technology Council Undergraduate Research Project**<br/>
-**An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning** — *Jul. 2025 – Feb. 2026* 
+**An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning** — *Jul. 2025 – Feb. 2026*<br/> 
 Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
