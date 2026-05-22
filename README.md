@@ -1,7 +1,7 @@
 ###   Research and Projects
 
-**National Science and Technology Council Undergraduate Research Project** <br\> 
-**An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning** — *Jul. 2025 – Feb. 2026*    
+**National Science and Technology Council Undergraduate Research Project**<br/>
+**An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning** — *Jul. 2025 – Feb. 2026* 
 Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
@@ -39,10 +39,6 @@ Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-e
 Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end)
 - Multi-page restaurant website (HTML/CSS/JS) covering menus, set meals, reservations, and brand introduction.
 - Serves as the front-end layer for the SQLite full-stack reservation system above.
-
-**Freeway Traffic Data Pipeline** — *May 2024 – Jun. 2024*
-- Designed an **Apache Airflow** ETL pipeline for freeway Vehicle Detector (VD) XML data; stored structured output in **Elasticsearch** for efficient querying.
-
 ---
 
 ###   Tech Stack
