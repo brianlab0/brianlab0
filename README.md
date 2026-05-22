@@ -16,7 +16,7 @@ Repository: [Taiwan-stock-forecasting-research](https://github.com/brianlab999/T
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
 
 **3C Shopping Assistant — LINE Bot** — *Mar. 2025 – May 2025*  
-Repository: [Linebot](https://github.com/brianlab999/Linebot)
+Repository: [3C-Shopping-Assistant-Linebot](https://github.com/brianlab999/3C-Shopping-Assistant-Linebot)
 - Multi-feature LINE chatbot integrating **Flask + LINE Messaging API + SQLite** for 3C product price lookup, tech news, AI consultation, and customer feedback.
 - Web-scraped real-time prices from multiple 3C retailers (傑昇通信, 地標網通, 創捷國際, 台灣大哥大) using **requests + BeautifulSoup**.
 - Runtime model switching between **OpenAI GPT-3.5** and a locally-hosted **Taide LLM** (Ollama), via in-chat button menus.
@@ -31,7 +31,7 @@ Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab99
 - Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end).
 - RESTful API with parameterized SQL queries; CRUD operations with **100% data integrity** and **<200 ms** response time.
 
-**Q-bi Music Education Front-End** — *Oct. 2024 – Nov. 2024*  
+**QB Music Education Front-End** — *Oct. 2024 – Nov. 2024*  
 Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-end)
 - Multi-page front-end website (HTML/CSS/JS + Bootstrap CDN) for a music education brand: news, brand story, instruments, members area, classroom map, charity, and franchise pages.
 
