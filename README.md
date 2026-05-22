@@ -1,11 +1,3 @@
-<h1 align="center">Huang Po-Chun</h1>
-
-<p align="center">
-  <b>Data Science · Machine Learning · Financial Data Analytics</b><br/>
-  B.S. in Data Science @ Soochow University, Taipei
-
----
-
 ###   About Me
 
 I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **statistical learning, machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
