@@ -22,22 +22,22 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 | Category | Course | Grade |
 |:--------:|--------|------:|
-| <div align="center"><strong>Mathematics & Statistics</strong></div> | Calculus | **100** |
+| <div align="center"><strong>Mathematics and Statistics</strong></div> | Calculus | **100** |
 |  | Linear Algebra | 99 |
 |  | Statistics | 99 |
 |  | Probability | 98 |
-| <div align="center"><strong>Programming & Data Science</strong></div> | Data Structures & Algorithms | 98 |
+| <div align="center"><strong>Programming & Data Science</strong></div> | Data Structures and Algorithms | 98 |
 |  | Big Data Analytics | 98 |
 |  | Data Analysis Software | 99 |
 |  | Web Programming | 96 |
 |  | Introduction to Big Data | 97 |
-| <div align="center"><strong>Finance & FinTech</strong></div> | FinTech Innovation & Applications | 99 |
+| <div align="center"><strong>Finance & FinTech</strong></div> | FinTech Innovation and Applications | 99 |
 |  | Intelligent Trading | 99 |
 |  | Financial Planning | 99 |
 |  | Monetary and Banking | 99 |
 |  | Accounting | 99 |
 |  | Economics | 97 |
-|  | Introduction to Big Data & FinTech Practices | 99 |
+|  | Introduction to Big Data and FinTech Practices | 99 |
 | <div align="center"><strong>Other Courses</strong></div> | Interactive Technology | 99 |
 |  | English | 99 |
 
