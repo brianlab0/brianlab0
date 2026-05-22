@@ -28,7 +28,7 @@ Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scra
 
 **Web Application with SQLite Back-End** — *Dec. 2024 – Feb. 2025*  
 Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab999/Web-Application-with-SQLite-Back-End) · [Demo Video](https://youtu.be/-8x2bmUEOtM)
-- Full-stack web app (**Node.js + Express + SQLite**) wired to the Mövenpick Café front-end.
+- Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab999/Movenpick).
 - RESTful API with parameterized SQL queries; CRUD operations with **100% data integrity** and **<200 ms** response time.
 
 **Q-bi Music Education Front-End** — *Oct. 2024 – Nov. 2024*  
