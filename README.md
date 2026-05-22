@@ -2,7 +2,7 @@
 
 **National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*  
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*  
-Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/taiwan-stock-forecasting-research)
+Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
@@ -10,7 +10,7 @@ Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/t
 - Presented at **TRIA 2025** (Taiwan Risk and Insurance Annual Conference and International Symposium).
 
 **HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*  
-Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/taiwan-stock-forecasting-research)
+Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
 - **HFSLS feature selection contributed 97% of the performance gain.**
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
