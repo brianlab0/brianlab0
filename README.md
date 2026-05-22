@@ -1,6 +1,6 @@
 ###   About Me
 
-I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **statistical learning, machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
+I'm a junior majoring in **Data Science** at Soochow University, ranking **1st in my class with a GPA of 4.0/4.0**. My work sits at the intersection of **machine learning, and financial data science** — turning large, noisy market data into structured insight and actionable strategy.
 
 ---
 
@@ -38,7 +38,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 ---
 
-###   Research & Projects
+###   Research and Projects
 **National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*  
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
@@ -71,25 +71,25 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 **Data Science** &nbsp; `pandas` `NumPy` `Matplotlib`
 **Statistics** &nbsp; `Regression Analysis` `Time Series Analysis` `Statistical Learning` `Feature Engineering`
 **Data Engineering** &nbsp; `Apache Airflow` `Elasticsearch` `ETL Pipelines` `API Integration` `Git`
-**BI & Reporting** &nbsp; `Excel` `PowerPoint`
+**BI and Reporting** &nbsp; `Excel` `PowerPoint`
 **Web Scraping** &nbsp; `Selenium` `ChromeDriver` `BeautifulSoup` `Requests` `Dynamic Page Automation`
 
 ---
 
 ###   Certifications
 
-**Finance & Insurance**
+**Finance and Insurance**
 - Life Insurance Agent Qualification
 - Property Insurance Agent Qualification
 - Foreign-Currency Non-Investment-Linked Insurance Product Examination
 - Investment-Linked Insurance Product Agent Qualification
 - Financial Planning Personnel Professional Competency
 - Trust Business Personnel — Trust Business Professional Examination
-- Bank Internal Control & Internal Audit
-- Knowledge of Financial Markets & Professional Ethics
+- Bank Internal Control and Internal Audit
+- Knowledge of Financial Markets and Professional Ethics
 - Financial Technology (FinTech) Knowledge
 
-**Data & Analytics**
+**Data and Analytics**
 - Python Programming Certification — *Silicon Stone Education* 
 - AI & Machine Learning Program — *National Taiwan University* 
 - Google Analytics (GA4) Certification 
@@ -100,7 +100,7 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 
 ###   Conferences
 
-- **TRIA — Taiwan Risk and Insurance Annual Conference & International Symposium** *(Dec. 2025)*
+- **TRIA — Taiwan Risk and Insurance Annual Conference and International Symposium** *(Dec. 2025)*
   Presented research on multi-level momentum and liquidity volatility in the Taiwan stock market using machine learning.
 
 ---
