@@ -2,7 +2,7 @@
 
 **National Science and Technology Council Undergraduate Research Project** — *Jul. 2025 – Feb. 2026*  
 *An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning*  
-Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
+Repository: [Taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
@@ -10,7 +10,7 @@ Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/T
 - Presented at **TRIA 2025** (Taiwan Risk and Insurance Annual Conference and International Symposium).
 
 **HFSLS-PSO-BIGRU Stock Prediction Model** — *Sept. 2025 – Jan. 2026*  
-Repository: [taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
+Repository: [Taiwan-stock-forecasting-research](https://github.com/brianlab999/Taiwan-stock-forecasting-research)
 - Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
 - **HFSLS feature selection contributed 97% of the performance gain.**
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
@@ -22,7 +22,7 @@ Repository: [Linebot](https://github.com/brianlab999/Linebot)
 - Runtime model switching between **OpenAI GPT-3.5** and a locally-hosted **Taide LLM** (Ollama), via in-chat button menus.
 
 **Steam Top Sellers Scraping and Trend Analysis** — *Mar. 2025*  
-Repository: [Web_scraping](https://github.com/brianlab999/Web_scraping)
+Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scraping-with-Selenium)
 - Built a **Selenium** scraper for the Steam Top 100 chart (Taiwan region) across 2021–2024, producing a 200+ weekly-snapshot dataset.
 - Developed a **Tkinter GUI** with pandas / Matplotlib for free-vs-paid ratio, yearly rankings, and four-year business-model trend analysis.
 
@@ -44,28 +44,3 @@ Repository: [Movenpick](https://github.com/brianlab999/Movenpick)
 - Designed an **Apache Airflow** ETL pipeline for freeway Vehicle Detector (VD) XML data; stored structured output in **Elasticsearch** for efficient querying.
 
 ---
-
-###   Tech Stack
-
-**Languages** &nbsp; `Python` `R` `SQL` `JavaScript` `HTML` `CSS`  
-**Machine Learning** &nbsp; `scikit-learn` `XGBoost` `LightGBM` `GBRT` `Random Forest`  
-**Deep Learning** &nbsp; `TensorFlow` `PyTorch` `Neural Networks` `BIGRU`  
-**Data Science** &nbsp; `pandas` `NumPy` `Matplotlib`  
-**Statistics** &nbsp; `Regression` `Time Series` `Statistical Learning` `Feature Engineering`  
-**Data Engineering** &nbsp; `Apache Airflow` `Elasticsearch` `ETL` `REST API` `Git`  
-**Web Scraping** &nbsp; `Selenium` `ChromeDriver` `BeautifulSoup` `Requests`  
-**Web and Backend** &nbsp; `Flask` `Node.js` `Express` `SQLite`  
-**LLM and Messaging** &nbsp; `OpenAI API` `Ollama` `LINE Messaging API`  
-**Desktop GUI** &nbsp; `Tkinter`
-
----
-
-###   Technical Certifications
-
-- **Python Programming Certification** — *Silicon Stone Education*
-- **AI and Machine Learning Program** — *National Taiwan University*
-- **Google Analytics (GA4) Certification**
-
----
-
-<p align="center"><i>Open to collaboration on data science, quantitative finance, and digital finance projects.</i></p>
