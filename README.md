@@ -21,24 +21,24 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
  ###   Outstanding Academic Performance (A+)
 
 | Category | Course | Grade |
-|----------|--------|-------|
-| **Mathematics & Statistics** | Calculus | **100** |
+|:--------:|--------|------:|
+| <div align="center"><strong>Mathematics & Statistics</strong></div> | Calculus | **100** |
 |  | Linear Algebra | 99 |
 |  | Statistics | 99 |
 |  | Probability | 98 |
-| **Programming & Data Science** | Data Structures & Algorithms | 98 |
+| <div align="center"><strong>Programming & Data Science</strong></div> | Data Structures & Algorithms | 98 |
 |  | Big Data Analytics | 98 |
 |  | Data Analysis Software | 99 |
 |  | Web Programming | 96 |
 |  | Introduction to Big Data | 97 |
-| **Finance & FinTech** | FinTech Innovation & Applications | 99 |
+| <div align="center"><strong>Finance & FinTech</strong></div> | FinTech Innovation & Applications | 99 |
 |  | Intelligent Trading | 99 |
 |  | Financial Planning | 99 |
 |  | Monetary and Banking | 99 |
 |  | Accounting | 99 |
 |  | Economics | 97 |
 |  | Introduction to Big Data & FinTech Practices | 99 |
-| **Other Courses** | Interactive Technology | 99 |
+| <div align="center"><strong>Other Courses</strong></div> | Interactive Technology | 99 |
 |  | English | 99 |
 
 - **San Francisco State University, USA** — Short-term Exchange Program  *(Jan. 2026 – Feb. 2026)*
