@@ -58,8 +58,10 @@ I'm a junior majoring in **Data Science** at Soochow University, ranking **1st i
 - Full-stack web app (HTML/CSS/JS + SQLite) with CRUD operations, **100% data integrity**, and **<200 ms** response time.
 - [Demo Video](https://youtu.be/-8x2bmUEOtM)
 
-**Garmin Sleep Data Analysis** — *Oct. 2025*
-- Analyzed wearable sleep data (duration, quality, trends) with pandas / NumPy / Matplotlib.
+**Steam Top Sellers Scraping & Trend Analysis** — *Dec. 2024*
+- Built a **Selenium + ChromeDriver** scraper to automate weekly extraction of the **Steam Top 100 chart (Taiwan region)** from 2021 to 2024 — over **200 weekly snapshots** consolidated into a unified CSV dataset.
+- Developed an interactive **Tkinter desktop GUI** to visualize the data: pie charts of free vs. paid games, weekly rankings, annual / four-year Top 100 aggregations, and a multi-year business-model trend chart.
+- Demonstrated end-to-end pipeline from dynamic-content web scraping to consumer-facing analytics application using **pandas** and **Matplotlib**.
 
 ---
 
