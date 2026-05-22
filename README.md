@@ -89,7 +89,7 @@ Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-
 
 - **Python Programming Certification** — *Silicon Stone Education*
 - **AI and Machine Learning Program** — *National Taiwan University*
-- **Google Analytics (GA4) Certification**
+- **Google Analytics Certification**
 
 ---
 
