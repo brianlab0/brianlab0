@@ -38,9 +38,9 @@ Repository: [3C-Shopping-Assistant-Linebot](https://github.com/brianlab999/3C-Sh
 <td align="right"><i>Jan. 2025 – Mar. 2025</i></td>
 </tr></table>
 
-Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scraping-with-Selenium)
-- Built a **Selenium** scraper for the Steam Top 100 chart (Taiwan region) across 2021–2024, producing a 200+ weekly-snapshot dataset.
-- Developed a **Tkinter GUI** with pandas / Matplotlib for free-vs-paid ratio, yearly rankings, and four-year business-model trend analysis.
+Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scraping-with-Selenium) · [Demo Video](https://youtu.be/1XpNq_qj1w4)
+- Built a **Selenium** scraper for the Steam Top 100 chart (Taiwan region) across 2024–2026, producing a 120+ weekly-snapshot dataset (~12,000 records).
+- Developed an **Tkinter GUI** with pandas / Matplotlib for free-vs-paid ratio analysis, yearly rankings, three-year business-model trend, and game-level timeline drill-down.
 
 <table width="100%"><tr>
 <td align="left"><b>Web Application with SQLite Back-End</b></td>
