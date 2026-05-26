@@ -5,7 +5,7 @@
 <td align="right"><i>May 2026 – Jun. 2026</i></td>
 </tr></table>
 
-Repository: [n8n-YouTube-Comment-Bot](https://github.com/brianlab999/n8n-YouTube-Comment-Bot)
+Repository: [n8n-YouTube-Comment-Bot](https://github.com/brianlab0/n8n-YouTube-Comment-Bot)
 - End-to-end automation pipeline integrating **LINE Messaging API**, **YouTube Data API v3**, and **Google Gemini AI** via **n8n** visual workflow engine.
 - Workflow 1 — **LINE → AI → Sheets**: Conversational rule setup; Gemini parses natural-language messages into structured JSON and writes rules into Google Sheets.
 - Workflow 2 — **Scheduled Auto-Reply**: Polls YouTube comments every 3 minutes; keyword-matched comments get auto-replied via API, and Gemini-generated notifications are pushed to LINE in real time.
