@@ -1,6 +1,17 @@
 ###   Research and Projects
 
 <table width="100%"><tr>
+<td align="left"><b>n8n Full-Stack Automation: YouTube Comment Monitor × LINE Bot × Gemini AI</b></td>
+<td align="right"><i>May 2026 – Jun. 2026</i></td>
+</tr></table>
+
+Repository: [n8n-YouTube-Comment-Bot](https://github.com/brianlab999/n8n-YouTube-Comment-Bot) · [Demo Video](https://youtu.be/YOUR_VIDEO_ID)
+- End-to-end automation pipeline integrating **LINE Messaging API**, **YouTube Data API v3**, and **Google Gemini AI** via **n8n** visual workflow engine.
+- Workflow 1 — **LINE → AI → Sheets**: Conversational rule setup; Gemini parses natural-language messages into structured JSON and writes rules into Google Sheets.
+- Workflow 2 — **Scheduled Auto-Reply**: Polls YouTube comments every 3 minutes; keyword-matched comments get auto-replied via API, and Gemini-generated notifications are pushed to LINE in real time.
+- Self-hosted on **Docker + ngrok** for full data privacy and zero recurring cost, eliminating dependence on n8n Cloud.
+
+<table width="100%"><tr>
 <td align="left"><b>National Science and Technology Council Undergraduate Research Project</b><br/>
 <i>An Empirical Study on Multi-Level Momentum and Liquidity Volatility Using Machine Learning</i></td>
 <td align="right"><i>Jul. 2025 – Feb. 2026</i></td>
@@ -80,7 +91,10 @@ Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-
 **Data Engineering** &nbsp; `Apache Airflow` `Elasticsearch` `ETL` `REST API` `Git`  
 **Web Scraping** &nbsp; `Selenium` `ChromeDriver` `BeautifulSoup` `Requests`  
 **Web and Backend** &nbsp; `Flask` `Node.js` `Express` `SQLite`  
-**LLM and Messaging** &nbsp; `OpenAI API` `Ollama` `LINE Messaging API`  
+**Workflow Automation** &nbsp; `n8n` `Webhook` `Cron` `Schedule Trigger`  
+**DevOps and Infrastructure** &nbsp; `Docker` `docker-compose` `ngrok`  
+**LLM and Messaging** &nbsp; `OpenAI API` `Ollama` `Google Gemini API` `LINE Messaging API`  
+**Cloud APIs** &nbsp; `Google Sheets API` `YouTube Data API v3` `OAuth 2.0`  
 **Desktop GUI** &nbsp; `Tkinter`
 
 ---
