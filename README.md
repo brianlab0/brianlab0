@@ -30,7 +30,7 @@ Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/T
 </tr></table>
 
 Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
-- Applied HFSLS-PSO-BIGRU to Taiwan equities, achieving **R² = 0.937** on TWII.
+- HFSLS-PSO-BIGRU improves R² by +2.394 and reduces MSE by 97.1% vs baseline.
 - **HFSLS feature selection contributed 97% of the performance gain.**
 - Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
 
