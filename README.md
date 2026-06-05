@@ -30,9 +30,10 @@ Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/T
 </tr></table>
 
 Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
-- HFSLS-PSO-BIGRU improves R² by +2.394 and reduces MSE by 97.1% vs baseline.
-- **HFSLS feature selection contributed 97% of the performance gain.**
-- Validated cross-industry applicability — accurate on defensive and tech stocks; captured volatility in cyclical names.
+- HFSLS-PSO-BIGRU improves R² by +2.394 and reduces MSE by 97.1% vs baseline BIGRU.
+- **HFSLS feature selection contributes 97% of total performance gain.**
+- Validated cross-industry generalization: stable performance on defensive and tech stocks, and effective capture of cyclical volatility patterns.
+- Demonstrates strong robustness and consistent predictive performance across different market regimes.
 
 <table width="100%"><tr>
 <td align="left"><b>3C Shopping Assistant — LINE Bot</b></td>
