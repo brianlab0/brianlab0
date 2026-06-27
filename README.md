@@ -1,6 +1,17 @@
 ###   Research and Projects
 
 <table width="100%"><tr>
+<td align="left"><b>n8n Daily Taiwan Stock Push: Yahoo Finance × TWSE × Groq Llama 3.3 AI</b></td>
+<td align="right"><i>Jun. 2026 – Jul. 2026</i></td>
+</tr></table>
+
+Repository: [n8n-Taiwan-Stock-Push](https://github.com/brianlab0/n8n-Taiwan-Stock-Push)
+- Automated daily Taiwan-stock briefing emailed every trading day after market close, built on the **n8n** visual workflow engine and self-hosted on **Docker**.
+- Aggregates live quotes for 45+ stocks across 20+ sectors (**Yahoo Finance**), three-major-institution net buy/sell (**TWSE**), MA/RSI technicals, and market news (**Tavily**).
+- **Groq Llama 3.3 70B** generates 10 buy + 10 sell diversified recommendations (never concentrated in large-cap weights), per-stock rationale, per-headline news digests, and a daily finance-term tip — rendered as a clean **LaTeX-style HTML email** via **Gmail SMTP**.
+- Trading-day-aware scheduling detects market sessions from the index timestamp and automatically skips weekends and national holidays.
+
+<table width="100%"><tr>
 <td align="left"><b>n8n Full-Stack Automation: YouTube Comment Monitor × LINE Bot × Gemini AI</b></td>
 <td align="right"><i>May 2026 – Jun. 2026</i></td>
 </tr></table>
