@@ -38,7 +38,7 @@ Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/T
 <table width="100%"><tr>
 <td align="left"><b>Hybrid Hierarchical Deep Learning</b><br/>
 <i>A Layered HFSLS-PSO-BIGRU Framework for Stock Forecasting and Trading in the Taiwan Stock Market</i></td>
-<td align="right"><i>Sep. 2025 – Jan. 2026</i></td>
+<td align="right"><i>Sep.&nbsp;2025&nbsp;–&nbsp;Jan.&nbsp;2026</i></td>
 </tr></table>
 
 Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
