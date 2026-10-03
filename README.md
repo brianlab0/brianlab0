@@ -85,7 +85,7 @@ Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-e
 
 <table width="100%"><tr>
 <td align="left"><b>Mövenpick Café Front-End</b></td>
-<td align="right"><i>Aug. 2024 – Sept. 2024</i></td>
+<td align="right"><i>Aug. 2024 – Sep. 2024</i></td>
 </tr></table>
 
 Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end)
