@@ -28,7 +28,7 @@ Repository: [n8n-YouTube-Comment-Bot](https://github.com/brianlab0/n8n-YouTube-C
 <td align="right"><i>Jul. 2025 – Feb. 2026</i></td>
 </tr></table>
 
-Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
+Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab0/Taiwan-Stock-Forecasting-Research)
 - Built ML-based quantitative trading strategies on **Taiwan stock market data from Jan. 1999 – Feb. 2025**.
 - Nonlinear models outperformed linear regression on prediction and backtest returns **by ~50%**.
 - Engineered a multi-level factor set: short-/long-term momentum, momentum change, max single-period return, return volatility.
@@ -41,7 +41,7 @@ Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/T
 <td align="right"><i>Sep. 2025 – Jan. 2026</i></td>
 </tr></table>
 
-Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/Taiwan-Stock-Forecasting-Research)
+Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab0/Taiwan-Stock-Forecasting-Research)
 - HFSLS-PSO-BIGRU improves R² by +2.394 and reduces MSE by 97.1% vs baseline BIGRU.
 - **HFSLS feature selection contributes 97% of total performance gain.**
 - Validated cross-industry generalization: stable performance on defensive and tech stocks, and effective capture of cyclical volatility patterns.
@@ -52,7 +52,7 @@ Repository: [Taiwan-Stock-Forecasting-Research](https://github.com/brianlab999/T
 <td align="right"><i>Mar. 2025 – May 2025</i></td>
 </tr></table>
 
-Repository: [3C-Shopping-Assistant-Linebot](https://github.com/brianlab999/3C-Shopping-Assistant-Linebot)
+Repository: [3C-Shopping-Assistant-Linebot](https://github.com/brianlab0/3C-Shopping-Assistant-Linebot)
 - Multi-feature LINE chatbot integrating **Flask + LINE Messaging API + SQLite** for 3C product price lookup, tech news, AI consultation, and customer feedback.
 - Web-scraped real-time prices from multiple 3C retailers (傑昇通信, 地標網通, 創捷國際, 台灣大哥大) using **requests + BeautifulSoup**.
 - Runtime model switching between **OpenAI GPT-3.5** and a locally-hosted **Taide LLM** (Ollama), via in-chat button menus.
@@ -62,7 +62,7 @@ Repository: [3C-Shopping-Assistant-Linebot](https://github.com/brianlab999/3C-Sh
 <td align="right"><i>Jan. 2025 – Mar. 2025</i></td>
 </tr></table>
 
-Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scraping-with-Selenium) · [Demo Video](https://youtu.be/1XpNq_qj1w4)
+Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab0/Web-Scraping-with-Selenium) · [Demo Video](https://youtu.be/1XpNq_qj1w4)
 - Built a **Selenium** scraper for the Steam Top 100 chart (Taiwan region) across 2024–2026, producing a 120+ weekly-snapshot dataset (~12,000 records).
 - Developed an **Tkinter GUI** with pandas / Matplotlib for free-vs-paid ratio analysis, yearly rankings, three-year business-model trend, and game-level timeline drill-down.
 
@@ -71,8 +71,8 @@ Repository: [Web-Scraping-with-Selenium](https://github.com/brianlab999/Web-Scra
 <td align="right"><i>Dec. 2024 – Feb. 2025</i></td>
 </tr></table>
 
-Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab999/Web-Application-with-SQLite-Back-End) · [Demo Video](https://youtu.be/-8x2bmUEOtM)
-- Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end).
+Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab0/Web-Application-with-SQLite-Back-End) · [Demo Video](https://youtu.be/-8x2bmUEOtM)
+- Full-stack web app (**Node.js + Express + SQLite**) wired to the [Mövenpick Café front-end](https://github.com/brianlab0/Movenpick-Cafe-front-end).
 - RESTful API with parameterized SQL queries; CRUD operations with **100% data integrity** and **<200 ms** response time.
 
 <table width="100%"><tr>
@@ -80,7 +80,7 @@ Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab99
 <td align="right"><i>Oct. 2024</i></td>
 </tr></table>
 
-Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-end)
+Repository: [QB-Music-front-end](https://github.com/brianlab0/QB-Music-front-end)
 - Multi-page front-end website (HTML/CSS/JS + Bootstrap CDN) for a music education brand: news, brand story, instruments, members area, classroom map, charity, and franchise pages.
 
 <table width="100%"><tr>
@@ -88,7 +88,7 @@ Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-e
 <td align="right"><i>Aug. 2024</i></td>
 </tr></table>
 
-Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end)
+Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab0/Movenpick-Cafe-front-end)
 - Multi-page restaurant website (HTML/CSS/JS) covering menus, set meals, reservations, and brand introduction.
 - Serves as the front-end layer for the SQLite full-stack reservation system above.
 
