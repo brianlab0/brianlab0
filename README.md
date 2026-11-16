@@ -2,7 +2,7 @@
 
 <table width="100%"><tr>
 <td align="left"><b>n8n Daily Taiwan Stock Push: Yahoo Finance × TWSE × Groq Llama 3.3 AI</b></td>
-<td align="right"><i>Jun. 2026 – Jul. 2026</i></td>
+<td align="right"><i>Jun. 2026</i></td>
 </tr></table>
 
 Repository: [n8n-Taiwan-Stock-Push](https://github.com/brianlab0/n8n-Taiwan-Stock-Push)
@@ -13,7 +13,7 @@ Repository: [n8n-Taiwan-Stock-Push](https://github.com/brianlab0/n8n-Taiwan-Stoc
 
 <table width="100%"><tr>
 <td align="left"><b>n8n Full-Stack Automation: YouTube Comment Monitor × LINE Bot × Gemini AI</b></td>
-<td align="right"><i>May 2026 – Jun. 2026</i></td>
+<td align="right"><i>May 2026</i></td>
 </tr></table>
 
 Repository: [n8n-YouTube-Comment-Bot](https://github.com/brianlab0/n8n-YouTube-Comment-Bot)
@@ -77,7 +77,7 @@ Repository: [Web-Application-with-SQLite-Back-End](https://github.com/brianlab99
 
 <table width="100%"><tr>
 <td align="left"><b>QB Music Education Front-End</b></td>
-<td align="right"><i>Oct. 2024 – Nov. 2024</i></td>
+<td align="right"><i>Oct. 2024</i></td>
 </tr></table>
 
 Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-end)
@@ -85,7 +85,7 @@ Repository: [QB-Music-front-end](https://github.com/brianlab999/QB-Music-front-e
 
 <table width="100%"><tr>
 <td align="left"><b>Mövenpick Café Front-End</b></td>
-<td align="right"><i>Aug. 2024 – Sep. 2024</i></td>
+<td align="right"><i>Aug. 2024</i></td>
 </tr></table>
 
 Repository: [Movenpick-Cafe-front-end](https://github.com/brianlab999/Movenpick-Cafe-front-end)
